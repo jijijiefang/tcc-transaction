@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration =\
+org.mengyun.tcctransaction.spring.TccTransactionAutoConfiguration,\
+  org.mengyun.tcctransaction.spring.ScheduleConfiguration
