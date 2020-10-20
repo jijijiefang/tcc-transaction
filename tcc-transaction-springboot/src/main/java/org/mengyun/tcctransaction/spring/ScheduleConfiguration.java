@@ -1,4 +1,4 @@
-package spring;
+package org.mengyun.tcctransaction.spring;
 
 import org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

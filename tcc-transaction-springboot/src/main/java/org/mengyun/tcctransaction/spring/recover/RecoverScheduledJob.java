@@ -1,4 +1,4 @@
-package spring.recover;
+package org.mengyun.tcctransaction.spring.recover;
 
 import org.mengyun.tcctransaction.SystemException;
 import org.mengyun.tcctransaction.recover.TransactionRecovery;

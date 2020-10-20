@@ -1,4 +1,4 @@
-package spring;
+package org.mengyun.tcctransaction.spring;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.mengyun.tcctransaction.interceptor.ResourceCoordinatorAspect;

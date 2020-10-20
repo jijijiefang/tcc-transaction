@@ -1,4 +1,4 @@
-package spring.recover;
+package org.mengyun.tcctransaction.spring.recover;
 
 import org.mengyun.tcctransaction.OptimisticLockException;
 import org.mengyun.tcctransaction.recover.RecoverConfig;

@@ -1,4 +1,4 @@
-package spring.repository;
+package org.mengyun.tcctransaction.spring.repository;
 
 
 import org.mengyun.tcctransaction.repository.JdbcTransactionRepository;

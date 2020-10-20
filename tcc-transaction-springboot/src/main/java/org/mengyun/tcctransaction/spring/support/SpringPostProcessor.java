@@ -1,4 +1,4 @@
-package spring.support;
+package org.mengyun.tcctransaction.spring.support;
 
 import org.mengyun.tcctransaction.support.BeanFactory;
 import org.mengyun.tcctransaction.support.FactoryBuilder;
